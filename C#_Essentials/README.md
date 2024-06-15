@@ -1,1 +1,0 @@
-Learning new language C#.
